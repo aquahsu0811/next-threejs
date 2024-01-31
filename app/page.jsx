@@ -1,9 +1,9 @@
 "use client"
-import Object from "@components/Object";
+import Text from "@components/Text";
 
 export default function Home() {
 
   return (
-    <Object></Object>
+    <Text></Text>
   )
 }
