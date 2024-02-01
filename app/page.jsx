@@ -4,6 +4,9 @@ import Text from "@components/Text";
 export default function Home() {
 
   return (
-    <Text></Text>
+    <>
+
+      <Text></Text>
+    </>
   )
 }
